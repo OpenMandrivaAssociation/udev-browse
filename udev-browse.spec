@@ -22,6 +22,8 @@ BuildRequires: udev-devel
 BuildRequires: vala-devel
 BuildRequires: libgee-devel
 BuildRequires: libgudev-devel
+BuildRequires: gtk2-devel
+BuildRequires: pango-devel
 
 
 %description
