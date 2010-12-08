@@ -1,7 +1,7 @@
 %define name udev-browse
 %define version 0.0.0
 %define git 20100131
-%define rel 1
+%define rel 2
 
 %define release %mkrel 0.%{git}.%{rel}
 
