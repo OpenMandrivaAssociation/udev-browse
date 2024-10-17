@@ -15,7 +15,7 @@ Source0: %{name}.tar.bz2
 # (cg) Guess at license until I find out properly
 License: GPLv2+
 Group:   Development/Other
-URL:     http://0pointer.de/blog/projects/udev-browse.html
+URL:     https://0pointer.de/blog/projects/udev-browse.html
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 BuildRequires: udev-devel
